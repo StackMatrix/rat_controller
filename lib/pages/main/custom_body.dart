@@ -4,7 +4,6 @@ import 'package:flutter_screenutil/flutter_screenutil.dart';
 import 'package:get/get.dart';
 import 'package:pluto_layout/pluto_layout.dart';
 
-
 import '/app/controllers/controllers.dart';
 
 class CustomBody extends StatelessWidget {
